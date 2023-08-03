@@ -9,7 +9,7 @@
 			"name": "Recordatorios",
 			"item": [
 				{
-					"name": "Enviar Copy",
+					"name": "Francisco Vargas",
 					"id": "63b26af3-7383-4604-83b1-ebf6cc089283",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
@@ -91,44 +91,45 @@
 		},
 		{
 			"name": "En camino",
-			"item": [],
-			"id": "45d3608d-36ad-4bb7-a121-a50af47f8b65"
-		},
-		{
-			"name": "Enviar",
-			"id": "a2b0c6df-9f16-4665-87e1-32918da43a3e",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"auth": {
-					"type": "noauth"
-				},
-				"method": "POST",
-				"header": [
-					{
-						"key": "Authorization",
-						"value": "Basic NGEwMGY3ZjgtZjA3Ny00ZDNmLWJjNGUtODc0ODAzNmUxMWQ0",
-						"type": "text"
+			"item": [
+				{
+					"name": "Enviar",
+					"id": "a2b0c6df-9f16-4665-87e1-32918da43a3e",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
 					},
-					{
-						"key": "Content-Type",
-						"value": "application/json",
-						"type": "text"
-					}
-				],
-				"body": {
-					"mode": "raw",
-					"raw": "{\r\n    \"include_external_user_ids\":[\"fvargas83@hotmail.com\"],\r\n    \"headings\":{\"en\":\"Gugugo\"},    \r\n    \"contents\":{\"en\":\"Mensaje\"},    \r\n    \"app_id\":\"ce36cd4b-2bd7-4837-ba36-7863ffb1badf\"\r\n    }",
-					"options": {
-						"raw": {
-							"language": "json"
-						}
-					}
-				},
-				"url": "https://onesignal.com/api/v1/notifications"
-			},
-			"response": []
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Basic NGEwMGY3ZjgtZjA3Ny00ZDNmLWJjNGUtODc0ODAzNmUxMWQ0",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"include_external_user_ids\":[\"fvargas83@hotmail.com\"],\r\n    \"headings\":{\"en\":\"Gugugo\"},    \r\n    \"contents\":{\"en\":\"Mensaje\"},    \r\n    \"app_id\":\"ce36cd4b-2bd7-4837-ba36-7863ffb1badf\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://onesignal.com/api/v1/notifications"
+					},
+					"response": []
+				}
+			],
+			"id": "45d3608d-36ad-4bb7-a121-a50af47f8b65"
 		}
 	]
 }
