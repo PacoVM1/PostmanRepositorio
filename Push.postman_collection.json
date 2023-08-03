@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "f70d27fe-edd3-4466-96bc-636ea17dde1f",
+		"name": "Push",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "20318664",
+		"_collection_link": "https://red-satellite-190414.postman.co/workspace/Team-Workspace~5d34b557-3e60-4bc9-8a6b-bc527f6638d2/collection/20318664-f70d27fe-edd3-4466-96bc-636ea17dde1f?action=share&creator=20318664&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "Enviar",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Basic NGEwMGY3ZjgtZjA3Ny00ZDNmLWJjNGUtODc0ODAzNmUxMWQ0",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"include_external_user_ids\":[\"fvargas83@hotmail.com\"],\r\n    \"headings\":{\"en\":\"Gugugo\"},    \r\n    \"contents\":{\"en\":\"Mensaje\"},    \r\n    \"app_id\":\"ce36cd4b-2bd7-4837-ba36-7863ffb1badf\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://onesignal.com/api/v1/notifications"
+			},
+			"response": []
+		}
+	]
+}
