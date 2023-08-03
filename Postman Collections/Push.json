@@ -7,13 +7,92 @@
 	"item": [
 		{
 			"name": "Recordatorios",
-			"item": [],
+			"item": [
+				{
+					"name": "Enviar Copy",
+					"id": "63b26af3-7383-4604-83b1-ebf6cc089283",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Basic NGEwMGY3ZjgtZjA3Ny00ZDNmLWJjNGUtODc0ODAzNmUxMWQ0",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"include_external_user_ids\":[\"fvargas83@hotmail.com\"],\r\n    \"headings\":{\"en\":\"Gugugo\"},    \r\n    \"contents\":{\"en\":\"Mensaje\"},    \r\n    \"app_id\":\"ce36cd4b-2bd7-4837-ba36-7863ffb1badf\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://onesignal.com/api/v1/notifications"
+					},
+					"response": []
+				}
+			],
 			"id": "501fb0c9-398e-454d-bddd-a4b636bd56da"
 		},
 		{
 			"name": "Confirmacíon Pedido",
-			"item": [],
+			"item": [
+				{
+					"name": "Enviar Copy",
+					"id": "af773800-c7c1-4383-ac5c-7b2c92f98657",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Basic NGEwMGY3ZjgtZjA3Ny00ZDNmLWJjNGUtODc0ODAzNmUxMWQ0",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"include_external_user_ids\":[\"fvargas83@hotmail.com\"],\r\n    \"headings\":{\"en\":\"Gugugo\"},    \r\n    \"contents\":{\"en\":\"Mensaje\"},    \r\n    \"app_id\":\"ce36cd4b-2bd7-4837-ba36-7863ffb1badf\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://onesignal.com/api/v1/notifications"
+					},
+					"response": []
+				}
+			],
 			"id": "216baecb-45d8-47ec-8200-01c4fb0d0413"
+		},
+		{
+			"name": "New Folder",
+			"item": [],
+			"id": "45d3608d-36ad-4bb7-a121-a50af47f8b65"
 		},
 		{
 			"name": "Enviar",
