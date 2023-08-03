@@ -1,0 +1,311 @@
+{
+	"info": {
+		"_postman_id": "9caf5d55-f27a-4054-b84f-93706531f641",
+		"name": "Pagoplux",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Cobro Mensual",
+			"item": [
+				{
+					"name": "Yo",
+					"_postman_id": "343e6e26-9d51-447c-879f-3130a271802a",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": {
+								"password": "UnKSydT4N1q9XQtkLP6IpVTkwhr4CSTm30vHmiUE694SdM5d",
+								"username": "RVao38SXHmDCtOICW7APH0pa9k"
+							}
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"monto\": 163.00,\r\n    \"idSuscripcion\": \"512b0f74-1a3d-4d11-bb50-736c33262b99\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://api.pagoplux.com/intv1/integrations/individualRecurrentPaymentResource"
+					},
+					"response": []
+				},
+				{
+					"name": "Raul Pita",
+					"_postman_id": "98a4285c-eaa6-4266-a336-3e70418d09ea",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": {
+								"password": "UnKSydT4N1q9XQtkLP6IpVTkwhr4CSTm30vHmiUE694SdM5d",
+								"username": "RVao38SXHmDCtOICW7APH0pa9k"
+							}
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"monto\": 163.00,\r\n    \"idSuscripcion\": \"512b0f74-1a3d-4d11-bb50-736c33262b99\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://api.pagoplux.com/intv1/integrations/individualRecurrentPaymentResource"
+					},
+					"response": []
+				},
+				{
+					"name": "Eduardo Khang",
+					"_postman_id": "5c476310-fcdb-4206-827e-07bca0ac2c6d",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": {
+								"password": "UnKSydT4N1q9XQtkLP6IpVTkwhr4CSTm30vHmiUE694SdM5d",
+								"username": "RVao38SXHmDCtOICW7APH0pa9k"
+							}
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"monto\": 163.00,\r\n    \"idSuscripcion\": \"512b0f74-1a3d-4d11-bb50-736c33262b99\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://api.pagoplux.com/intv1/integrations/individualRecurrentPaymentResource"
+					},
+					"response": []
+				},
+				{
+					"name": "Familia Valenzuela Morales",
+					"_postman_id": "d8c4f5c4-9776-4443-aaac-45dcef676ff0",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": {
+								"password": "UnKSydT4N1q9XQtkLP6IpVTkwhr4CSTm30vHmiUE694SdM5d",
+								"username": "RVao38SXHmDCtOICW7APH0pa9k"
+							}
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"monto\": 163.00,\r\n    \"idSuscripcion\": \"512b0f74-1a3d-4d11-bb50-736c33262b99\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://api.pagoplux.com/intv1/integrations/individualRecurrentPaymentResource"
+					},
+					"response": []
+				},
+				{
+					"name": "Familia Brito Gamio",
+					"_postman_id": "cbf051d0-4d01-4cbf-830f-a1baef6f271f",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": {
+								"password": "UnKSydT4N1q9XQtkLP6IpVTkwhr4CSTm30vHmiUE694SdM5d",
+								"username": "RVao38SXHmDCtOICW7APH0pa9k"
+							}
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"monto\": 163.00,\r\n    \"idSuscripcion\": \"512b0f74-1a3d-4d11-bb50-736c33262b99\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://api.pagoplux.com/intv1/integrations/individualRecurrentPaymentResource"
+					},
+					"response": []
+				},
+				{
+					"name": "Fmlia Bonnard Manrique",
+					"_postman_id": "4e13acef-ad09-463d-951e-c720e7004a56",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": {
+								"password": "UnKSydT4N1q9XQtkLP6IpVTkwhr4CSTm30vHmiUE694SdM5d",
+								"username": "RVao38SXHmDCtOICW7APH0pa9k"
+							}
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"monto\": 163.00,\r\n    \"idSuscripcion\": \"512b0f74-1a3d-4d11-bb50-736c33262b99\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://api.pagoplux.com/intv1/integrations/individualRecurrentPaymentResource"
+					},
+					"response": []
+				},
+				{
+					"name": "Nicole Porras",
+					"_postman_id": "b9b6d7e4-1071-4256-a1e7-892fc699bcca",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": {
+								"password": "UnKSydT4N1q9XQtkLP6IpVTkwhr4CSTm30vHmiUE694SdM5d",
+								"username": "RVao38SXHmDCtOICW7APH0pa9k"
+							}
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"monto\": 163.00,\r\n    \"idSuscripcion\": \"512b0f74-1a3d-4d11-bb50-736c33262b99\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://api.pagoplux.com/intv1/integrations/individualRecurrentPaymentResource"
+					},
+					"response": []
+				},
+				{
+					"name": "Familia Hidalgo Bonnard",
+					"_postman_id": "9329cf57-c8eb-4114-aba6-388be27bd5b4",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": {
+								"password": "UnKSydT4N1q9XQtkLP6IpVTkwhr4CSTm30vHmiUE694SdM5d",
+								"username": "RVao38SXHmDCtOICW7APH0pa9k"
+							}
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"monto\": 163.00,\r\n    \"idSuscripcion\": \"512b0f74-1a3d-4d11-bb50-736c33262b99\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://api.pagoplux.com/intv1/integrations/individualRecurrentPaymentResource"
+					},
+					"response": []
+				},
+				{
+					"name": "Diana Chavez - Daniel Salazar",
+					"_postman_id": "0ad32223-f229-4ec7-898b-da4b14babea9",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": {
+								"password": "UnKSydT4N1q9XQtkLP6IpVTkwhr4CSTm30vHmiUE694SdM5d",
+								"username": "RVao38SXHmDCtOICW7APH0pa9k"
+							}
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"monto\": 163.00,\r\n    \"idSuscripcion\": \"512b0f74-1a3d-4d11-bb50-736c33262b99\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://api.pagoplux.com/intv1/integrations/individualRecurrentPaymentResource"
+					},
+					"response": []
+				}
+			],
+			"_postman_id": "96773566-e609-486b-8452-7b8590ef6a91"
+		},
+		{
+			"name": "Diario",
+			"item": [
+				{
+					"name": "Karyme Yanez",
+					"_postman_id": "d3c7ff1c-402a-460f-8b19-665c0d7e23b3",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": {
+								"password": "UnKSydT4N1q9XQtkLP6IpVTkwhr4CSTm30vHmiUE694SdM5d",
+								"username": "RVao38SXHmDCtOICW7APH0pa9k"
+							}
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"monto\": 163.00,\r\n    \"idSuscripcion\": \"512b0f74-1a3d-4d11-bb50-736c33262b99\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://api.pagoplux.com/intv1/integrations/individualRecurrentPaymentResource"
+					},
+					"response": []
+				}
+			],
+			"_postman_id": "15da072c-9ea0-428a-86dc-a673b1e0d2cb"
+		}
+	]
+}
