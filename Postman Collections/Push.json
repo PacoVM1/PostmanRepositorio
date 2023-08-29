@@ -45,8 +45,224 @@
 					"response": []
 				},
 				{
-					"name": "Francisco Vargas Copy",
+					"name": "katherin.yepes05@hotmail.com",
 					"id": "b703f6e6-822b-4f57-9faa-2357bb73e4e4",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Basic NGEwMGY3ZjgtZjA3Ny00ZDNmLWJjNGUtODc0ODAzNmUxMWQ0",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"include_external_user_ids\":[\"fvargas83@hotmail.com\"],\r\n    \"headings\":{\"en\":\"Gugugo\"},    \r\n    \"contents\":{\"en\":\"Mensaje\"},    \r\n    \"app_id\":\"ce36cd4b-2bd7-4837-ba36-7863ffb1badf\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://onesignal.com/api/v1/notifications"
+					},
+					"response": []
+				},
+				{
+					"name": "nicole.garzonsa@gmail.com",
+					"id": "b8f21f4f-291d-47bb-88b2-04c347c6b533",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Basic NGEwMGY3ZjgtZjA3Ny00ZDNmLWJjNGUtODc0ODAzNmUxMWQ0",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"include_external_user_ids\":[\"fvargas83@hotmail.com\"],\r\n    \"headings\":{\"en\":\"Gugugo\"},    \r\n    \"contents\":{\"en\":\"Mensaje\"},    \r\n    \"app_id\":\"ce36cd4b-2bd7-4837-ba36-7863ffb1badf\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://onesignal.com/api/v1/notifications"
+					},
+					"response": []
+				},
+				{
+					"name": "carolaroblesmg@gmail.com",
+					"id": "0ff4a4f1-10ed-4135-abde-a664edc85c69",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Basic NGEwMGY3ZjgtZjA3Ny00ZDNmLWJjNGUtODc0ODAzNmUxMWQ0",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"include_external_user_ids\":[\"fvargas83@hotmail.com\"],\r\n    \"headings\":{\"en\":\"Gugugo\"},    \r\n    \"contents\":{\"en\":\"Mensaje\"},    \r\n    \"app_id\":\"ce36cd4b-2bd7-4837-ba36-7863ffb1badf\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://onesignal.com/api/v1/notifications"
+					},
+					"response": []
+				},
+				{
+					"name": "al_wong9@hotmail.com",
+					"id": "8457df5b-5b9e-49af-aa1b-ec78e9b4845d",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Basic NGEwMGY3ZjgtZjA3Ny00ZDNmLWJjNGUtODc0ODAzNmUxMWQ0",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"include_external_user_ids\":[\"fvargas83@hotmail.com\"],\r\n    \"headings\":{\"en\":\"Gugugo\"},    \r\n    \"contents\":{\"en\":\"Mensaje\"},    \r\n    \"app_id\":\"ce36cd4b-2bd7-4837-ba36-7863ffb1badf\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://onesignal.com/api/v1/notifications"
+					},
+					"response": []
+				},
+				{
+					"name": "maverocrespo@gmail.com",
+					"id": "1a2e6d45-e2ca-458a-acad-03e5afe9b1a0",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Basic NGEwMGY3ZjgtZjA3Ny00ZDNmLWJjNGUtODc0ODAzNmUxMWQ0",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"include_external_user_ids\":[\"fvargas83@hotmail.com\"],\r\n    \"headings\":{\"en\":\"Gugugo\"},    \r\n    \"contents\":{\"en\":\"Mensaje\"},    \r\n    \"app_id\":\"ce36cd4b-2bd7-4837-ba36-7863ffb1badf\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://onesignal.com/api/v1/notifications"
+					},
+					"response": []
+				},
+				{
+					"name": "Francisco Vargas Copy 5",
+					"id": "1fce1741-8de5-4404-b8c0-5a32104b305b",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Basic NGEwMGY3ZjgtZjA3Ny00ZDNmLWJjNGUtODc0ODAzNmUxMWQ0",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"include_external_user_ids\":[\"fvargas83@hotmail.com\"],\r\n    \"headings\":{\"en\":\"Gugugo\"},    \r\n    \"contents\":{\"en\":\"Mensaje\"},    \r\n    \"app_id\":\"ce36cd4b-2bd7-4837-ba36-7863ffb1badf\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://onesignal.com/api/v1/notifications"
+					},
+					"response": []
+				},
+				{
+					"name": "Francisco Vargas Copy 6",
+					"id": "1e7eba76-e2e9-46d1-99fe-be266fa161d0",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
