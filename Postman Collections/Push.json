@@ -336,48 +336,6 @@
 			"id": "501fb0c9-398e-454d-bddd-a4b636bd56da"
 		},
 		{
-			"name": "Gracias por tu compra",
-			"item": [
-				{
-					"name": "Francisco Vargas",
-					"id": "af773800-c7c1-4383-ac5c-7b2c92f98657",
-					"protocolProfileBehavior": {
-						"disableBodyPruning": true
-					},
-					"request": {
-						"auth": {
-							"type": "noauth"
-						},
-						"method": "POST",
-						"header": [
-							{
-								"key": "Authorization",
-								"value": "Basic NGEwMGY3ZjgtZjA3Ny00ZDNmLWJjNGUtODc0ODAzNmUxMWQ0",
-								"type": "text"
-							},
-							{
-								"key": "Content-Type",
-								"value": "application/json",
-								"type": "text"
-							}
-						],
-						"body": {
-							"mode": "raw",
-							"raw": "{\r\n    \"include_external_user_ids\":[\"fvargas83@hotmail.com\"],\r\n    \"headings\":{\"en\":\"Gugugo\"},    \r\n    \"contents\":{\"en\":\"Mensaje\"},    \r\n    \"app_id\":\"ce36cd4b-2bd7-4837-ba36-7863ffb1badf\"\r\n    }",
-							"options": {
-								"raw": {
-									"language": "json"
-								}
-							}
-						},
-						"url": "https://onesignal.com/api/v1/notifications"
-					},
-					"response": []
-				}
-			],
-			"id": "216baecb-45d8-47ec-8200-01c4fb0d0413"
-		},
-		{
 			"name": "En camino",
 			"item": [
 				{
@@ -460,6 +418,48 @@
 				}
 			],
 			"id": "a8a1ac9a-3c84-4fd7-ac4a-a41b87798a56"
+		},
+		{
+			"name": "Gracias por tu compra",
+			"item": [
+				{
+					"name": "Francisco Vargas",
+					"id": "af773800-c7c1-4383-ac5c-7b2c92f98657",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Basic NGEwMGY3ZjgtZjA3Ny00ZDNmLWJjNGUtODc0ODAzNmUxMWQ0",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"include_external_user_ids\":[\"fvargas83@hotmail.com\"],\r\n    \"headings\":{\"en\":\"Gugugo\"},    \r\n    \"contents\":{\"en\":\"Mensaje\"},    \r\n    \"app_id\":\"ce36cd4b-2bd7-4837-ba36-7863ffb1badf\"\r\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://onesignal.com/api/v1/notifications"
+					},
+					"response": []
+				}
+			],
+			"id": "216baecb-45d8-47ec-8200-01c4fb0d0413"
 		}
 	]
 }
