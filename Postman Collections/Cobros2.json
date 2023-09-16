@@ -47,15 +47,15 @@
 						"auth": {
 							"type": "basic",
 							"basic": {
-								"password": "UnKSydT4N1q9XQtkLP6IpVTkwhr4CSTm30vHmiUE694SdM5d",
-								"username": "RVao38SXHmDCtOICW7APH0pa9k"
+								"password": "ISStFEZDYTCph6L9f9n2aYT87F4yXnu6o6bgiD3g7uOHIhpz",
+								"username": "vFzPQxs0Xogl6EwU3EDDm2DjAC"
 							}
 						},
 						"method": "POST",
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"monto\": 163.00,\r\n    \"idSuscripcion\": \"512b0f74-1a3d-4d11-bb50-736c33262b99\"\r\n}",
+							"raw": "{\r\n    \"monto\": 165.0,\r\n    \"idSuscripcion\": \"5436b994-12b8-445a-97e3-f0b5faa7cb26\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
