@@ -33,7 +33,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"include_external_user_ids\":[\"fvargas83@hotmail.com\"],\r\n    \"headings\":{\"en\":\"Gugugo\"},    \r\n    \"contents\":{\"en\":\"Mensaje\"},    \r\n    \"app_id\":\"ce36cd4b-2bd7-4837-ba36-7863ffb1badf\"\r\n    }",
+							"raw": "{\r\n    \"include_external_user_ids\":[\"ingridweisson12@gmail.com\"],\r\n    \"headings\":{\"en\":\"Gugugo\"},    \r\n    \"contents\":{\"en\":\"Hola Ingrid. Tus productos estan por acabarse. ¡Recuerda hacer tu pedido! \"},    \r\n    \"app_id\":\"ce36cd4b-2bd7-4837-ba36-7863ffb1badf\"\r\n    }",
 							"options": {
 								"raw": {
 									"language": "json"
