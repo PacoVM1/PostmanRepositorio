@@ -229,7 +229,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"monto\": 133.20,\r\n    \"idSuscripcion\": \"35ff5014-323f-41f6-84bc-65d963ac0caf\"\r\n}",
+							"raw": "{\r\n    \"monto\": 163.00,\r\n    \"idSuscripcion\": \"35ff5014-323f-41f6-84bc-65d963ac0caf\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
