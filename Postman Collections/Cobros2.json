@@ -293,7 +293,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"monto\": 163.00,\r\n    \"idSuscripcion\": \"512b0f74-1a3d-4d11-bb50-736c33262b99\"\r\n}",
+							"raw": "{\r\n    \"monto\": 27.50,\r\n    \"idSuscripcion\": \"db15479e-dead-4771-9967-489dd21424e1\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
