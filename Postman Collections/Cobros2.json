@@ -67,64 +67,6 @@
 					"response": []
 				},
 				{
-					"name": "Eduardo Khang",
-					"id": "5c476310-fcdb-4206-827e-07bca0ac2c6d",
-					"protocolProfileBehavior": {
-						"disableBodyPruning": true
-					},
-					"request": {
-						"auth": {
-							"type": "basic",
-							"basic": {
-								"password": "UnKSydT4N1q9XQtkLP6IpVTkwhr4CSTm30vHmiUE694SdM5d",
-								"username": "RVao38SXHmDCtOICW7APH0pa9k"
-							}
-						},
-						"method": "POST",
-						"header": [],
-						"body": {
-							"mode": "raw",
-							"raw": "{\r\n    \"monto\": 150.60,\r\n    \"idSuscripcion\": \"dbac42a6-253a-4f16-a1c5-bee5d420bc76\"\r\n}",
-							"options": {
-								"raw": {
-									"language": "json"
-								}
-							}
-						},
-						"url": "https://api.pagoplux.com/intv1/integrations/individualRecurrentPaymentResource"
-					},
-					"response": []
-				},
-				{
-					"name": "Familia Valenzuela Morales",
-					"id": "d8c4f5c4-9776-4443-aaac-45dcef676ff0",
-					"protocolProfileBehavior": {
-						"disableBodyPruning": true
-					},
-					"request": {
-						"auth": {
-							"type": "basic",
-							"basic": {
-								"password": "UnKSydT4N1q9XQtkLP6IpVTkwhr4CSTm30vHmiUE694SdM5d",
-								"username": "RVao38SXHmDCtOICW7APH0pa9k"
-							}
-						},
-						"method": "POST",
-						"header": [],
-						"body": {
-							"mode": "raw",
-							"raw": "{\r\n    \"monto\": 163.00,\r\n    \"idSuscripcion\": \"512b0f74-1a3d-4d11-bb50-736c33262b99\"\r\n}",
-							"options": {
-								"raw": {
-									"language": "json"
-								}
-							}
-						},
-						"url": "https://api.pagoplux.com/intv1/integrations/individualRecurrentPaymentResource"
-					},
-					"response": []
-				},
-				{
 					"name": "Familia Brito Gamio",
 					"id": "cbf051d0-4d01-4cbf-830f-a1baef6f271f",
 					"protocolProfileBehavior": {
@@ -212,35 +154,6 @@
 					"response": []
 				},
 				{
-					"name": "Familia Hidalgo Bonnard",
-					"id": "9329cf57-c8eb-4114-aba6-388be27bd5b4",
-					"protocolProfileBehavior": {
-						"disableBodyPruning": true
-					},
-					"request": {
-						"auth": {
-							"type": "basic",
-							"basic": {
-								"password": "UnKSydT4N1q9XQtkLP6IpVTkwhr4CSTm30vHmiUE694SdM5d",
-								"username": "RVao38SXHmDCtOICW7APH0pa9k"
-							}
-						},
-						"method": "POST",
-						"header": [],
-						"body": {
-							"mode": "raw",
-							"raw": "{\r\n    \"monto\": 163.00,\r\n    \"idSuscripcion\": \"35ff5014-323f-41f6-84bc-65d963ac0caf\"\r\n}",
-							"options": {
-								"raw": {
-									"language": "json"
-								}
-							}
-						},
-						"url": "https://api.pagoplux.com/intv1/integrations/individualRecurrentPaymentResource"
-					},
-					"response": []
-				},
-				{
 					"name": "Joaquin flor - Eduarda Duran",
 					"id": "0ad32223-f229-4ec7-898b-da4b14babea9",
 					"protocolProfileBehavior": {
@@ -270,7 +183,7 @@
 					"response": []
 				},
 				{
-					"name": "Fmlia Flor Duran",
+					"name": "Daniel Salazar - Dianita Chavez",
 					"id": "1c0be163-8ab7-4cad-b76e-8d7bd58dafcc",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
