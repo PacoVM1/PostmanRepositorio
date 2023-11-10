@@ -241,8 +241,37 @@
 					"response": []
 				},
 				{
-					"name": "Diana Chavez - Daniel Salazar",
+					"name": "Joaquin flor - Eduarda Duran",
 					"id": "0ad32223-f229-4ec7-898b-da4b14babea9",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": {
+								"password": "UnKSydT4N1q9XQtkLP6IpVTkwhr4CSTm30vHmiUE694SdM5d",
+								"username": "RVao38SXHmDCtOICW7APH0pa9k"
+							}
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"monto\": 448.50,\r\n    \"idSuscripcion\": \"429c2575-aba1-4299-98eb-3ba7dc92ee40\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://api.pagoplux.com/intv1/integrations/individualRecurrentPaymentResource"
+					},
+					"response": []
+				},
+				{
+					"name": "Fmlia Flor Duran",
+					"id": "1c0be163-8ab7-4cad-b76e-8d7bd58dafcc",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
