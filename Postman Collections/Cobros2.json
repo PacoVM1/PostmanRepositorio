@@ -210,6 +210,35 @@
 						"url": "https://api.pagoplux.com/intv1/integrations/individualRecurrentPaymentResource"
 					},
 					"response": []
+				},
+				{
+					"name": "Daniel Salazar - Dianita Chavez Copy",
+					"id": "dcbf61f7-a6ac-40ba-8386-9170ecec34a8",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": {
+								"password": "UnKSydT4N1q9XQtkLP6IpVTkwhr4CSTm30vHmiUE694SdM5d",
+								"username": "RVao38SXHmDCtOICW7APH0pa9k"
+							}
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"monto\": 448.50,\r\n    \"idSuscripcion\": \"429c2575-aba1-4299-98eb-3ba7dc92ee40\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "https://api.pagoplux.com/intv1/integrations/individualRecurrentPaymentResource"
+					},
+					"response": []
 				}
 			],
 			"id": "96773566-e609-486b-8452-7b8590ef6a91"
